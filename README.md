@@ -23,20 +23,13 @@ In this assignment, the goal is to create a Python script to perform a sentiment
 
 <h3><u>libraries used</u></h3>
 
-
-```python
-import tweepy
-import numpy as np
-import pandas as pd
-from datetime import datetime
-import matplotlib.pyplot as plt
-%matplotlib inline
-import numpy as np
+tweepy
+numpy
+pandas 
+datetime
+matplotlib
 import seaborn as sns
-from my_keys import *
-import warnings
-warnings.filterwarnings('ignore')
-from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+vaderSentiment.vaderSentiment 
 
 <h3><u>Plot of Sentiment Analysis for Media Tweets</u></h3>
 
@@ -44,16 +37,12 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 
 
-<h3><u>Plot of Overall Media Sentiment Analysis</u></h3>
+Plot of Overall Media Sentiment Analysis
 
 ![png](output_22_0.png)
 
 
-<h3><u>Relationship Plot for Polarity Scores</u></h3>
-
-
-
-
+Relationship Plot for Polarity Scores</u></h3>
 
 ![png](output_28_0.png)
 
@@ -69,6 +58,4 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 </ul>
 
 
-```python
 
-```
