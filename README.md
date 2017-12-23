@@ -5,7 +5,7 @@
 
 Instructions: In this assignment, the goal is to create a Python script to perform a sentiment analysis of the Twitter activity of various news outlets and to present your findings visually.
 
-libraries used
+libraries used:
 <ul>
 <li>tweepy</li>
 <li>numpy</li>
