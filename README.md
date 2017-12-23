@@ -22,16 +22,17 @@
 In this assignment, the goal is to create a Python script to perform a sentiment analysis of the Twitter activity of various news outlets and to present your findings visually.
 
 <h3><u>libraries used</u></h3>
+<ul>
+<li>tweepy</li>
+<li>numpy</li>
+<li>pandas</li> 
+<li>datetime</li>
+<li>matplotlib</li>
+<li>seaborn</li>
+<li>vaderSentiment.vaderSentiment</li> 
+</ul>
 
-tweepy
-numpy
-pandas 
-datetime
-matplotlib
-import seaborn as sns
-vaderSentiment.vaderSentiment 
-
-<h3><u>Plot of Sentiment Analysis for Media Tweets</u></h3>
+Plot of Sentiment Analysis for Media Tweets
 
 ![png](output_18_0.png)
 
@@ -42,7 +43,7 @@ Plot of Overall Media Sentiment Analysis
 ![png](output_22_0.png)
 
 
-Relationship Plot for Polarity Scores</u></h3>
+Relationship Plot for Polarity Scores
 
 ![png](output_28_0.png)
 
