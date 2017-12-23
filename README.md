@@ -19,13 +19,15 @@ libraries used
 Plots
 
 
-Plot of Sentiment Analysis for Media Tweets
+
 
 ![png](output_18_0.png)
 
 
 
-Plot of Overall Media Sentiment Analysis
+
+
+
 ![png](output_22_0.png)
 
 
