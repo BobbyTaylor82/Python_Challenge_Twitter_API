@@ -33,7 +33,12 @@ Plot of Overall Media Sentiment Analysis
 
 
 Relationship Plot for Polarity Scores
+
+
 ![png](output_28_0.png)
+
+
+
 
 
 
