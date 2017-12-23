@@ -16,7 +16,7 @@ libraries used
 <li>vaderSentiment.vaderSentiment</li> 
 </ul>
 
-Plots
+<h3>Plots</h3>
 
 
 
