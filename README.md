@@ -3,8 +3,7 @@
 
 ![](Twitter.jpg)
 
-Instructions
-In this assignment, the goal is to create a Python script to perform a sentiment analysis of the Twitter activity of various news outlets and to present your findings visually.
+Instructions: In this assignment, the goal is to create a Python script to perform a sentiment analysis of the Twitter activity of various news outlets and to present your findings visually.
 
 libraries used
 <ul>
@@ -19,9 +18,16 @@ libraries used
 
 Plots
 Plot of Sentiment Analysis for Media Tweets
+
 ![png](output_18_0.png)
+
+
+
 Plot of Overall Media Sentiment Analysis
 ![png](output_22_0.png)
+
+
+
 Relationship Plot for Polarity Scores
 ![png](output_28_0.png)
 
